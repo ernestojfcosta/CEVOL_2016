@@ -1,0 +1,17 @@
+\contentsline {paragraph}{Acknowledgments}{9}{section*.2}
+\contentsline {chapter}{\numberline {1}Introduction}{11}{chapter.1}
+\contentsline {section}{\numberline {1.1}Problem Solving and Computers}{11}{section.1.1}
+\contentsline {chapter}{\numberline {2}Gradient-Based Optimization}{13}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{13}{section.2.1}
+\contentsline {section}{\numberline {2.2}Algorithms}{13}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Gradient Ascendent}{13}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Random Restart}{14}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Newton's Method}{14}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}Implementation}{14}{section.2.3}
+\contentsline {paragraph}{frange}{15}{section*.6}
+\contentsline {section}{\numberline {2.4}Exercices}{16}{section.2.4}
+\contentsline {chapter}{\numberline {3}Single-State Stochastic Search}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{17}{section.3.1}
+\contentsline {section}{\numberline {3.2}Algorithms}{17}{section.3.2}
+\contentsline {section}{\numberline {3.3}Implementation}{17}{section.3.3}
+\contentsline {section}{\numberline {3.4}Exercices}{17}{section.3.4}
